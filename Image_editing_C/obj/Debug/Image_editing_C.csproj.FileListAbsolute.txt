@@ -1,0 +1,6 @@
+/home/max/RiderProjects/Image_editing_C/Image_editing_C/bin/Debug/Image_editing_C.exe
+/home/max/RiderProjects/Image_editing_C/Image_editing_C/bin/Debug/Image_editing_C.pdb
+/home/max/RiderProjects/Image_editing_C/Image_editing_C/obj/Debug/Image_editing_C.csprojAssemblyReference.cache
+/home/max/RiderProjects/Image_editing_C/Image_editing_C/obj/Debug/Image_editing_C.csproj.CoreCompileInputs.cache
+/home/max/RiderProjects/Image_editing_C/Image_editing_C/obj/Debug/Image_editing_C.exe
+/home/max/RiderProjects/Image_editing_C/Image_editing_C/obj/Debug/Image_editing_C.pdb
